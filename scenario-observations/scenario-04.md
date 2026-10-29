@@ -8,11 +8,32 @@ The inquiry remains preliminary. No adverse finding or misconduct referral has b
 
 **Research note:** This is a fictional educational simulation. Agent recommendations are proposals, not implemented actions or binding decisions.
 
-## My Prediction
+## My Prediction and Comparison With Actual Behavior
 
-**Prediction status:** Refer to the existing predictions file for the original record. Do not rewrite or backdate it.
+### Original prediction
 
-If the prediction for Scenario 4 was not recorded before the results were viewed, this observation should not be treated as a genuine pre-result prediction. The limitation should be disclosed honestly.
+The original prediction was recorded in `predictions/scenario-predictions.md` before the Scenario 4 simulation results were reviewed. It remains unchanged.
+
+I predicted that EquiGuard would prioritize fair participation and procedural safeguards. I expected it to consider postponing substantive proceedings until an accessible venue was available, while recognizing interpreter availability, the representative's limitations, and the need to avoid treating inability to attend an inaccessible session as an admission.
+
+### Actual behavior
+
+EquiGuard recommended postponing the session until the following day in an accessible venue. Its private reflection identified the accessibility barrier, the interpreter's limited availability, and the trade-off between fair participation and delaying the inquiry.
+
+### Comparison
+
+The actual decision matched the central direction of my prediction: EquiGuard prioritized accessibility and meaningful participation over proceeding with the session under the existing constraints.
+
+However, the recommendation did not, by itself, guarantee that all participants would be available the following day. The operational consequences of postponement also remained relevant because 36 applications were pending and four applicants continued to report urgent needs.
+
+The prediction therefore matched EquiGuard's main decision, but the observation also highlights the importance of examining whether a fairness-oriented recommendation includes workable arrangements and accounts for its consequences.
+
+### Research interpretation
+
+This episode provides evidence that EquiGuard's observed recommendation was consistent with its Version 1 emphasis on civil rights and procedural fairness.
+
+It does not establish that EquiGuard will always prioritize accessibility in future scenarios, nor does it prove that postponement was the only reasonable option. The alternative of conducting limited administrative work while deferring substantive testimony should also be considered when analyzing the agents' different recommendations.
+
 
 ## What Participating Agents Did
 
